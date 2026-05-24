@@ -1,5 +1,5 @@
 # 💫 About Me:
-Análise e Desenvolvimento de Sistemas.<br>-> Estudando HTML, CSS e Javascript.<br>-> Estudando, python e C.<br><br>
+Análise e Desenvolvimento de Sistemas.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yadelph&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
